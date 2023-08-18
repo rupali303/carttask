@@ -1,0 +1,9 @@
+.imgCard {
+    width: 280px;
+    height: 200px;
+    object-fit: cover;
+}
+.table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
